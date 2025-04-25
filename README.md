@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+#  Quiz de Perguntas - React
 
-First, run the development server:
+Um aplicativo de quiz feito com **React** para testar meus conhecimentos de forma divertida e interativa!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+##  Tecnologias usadas
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   **React**  com  **TypeScript**
+-   **Tailwind CSS**  para estilização
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+##  Preview
 
-## Learn More
+- Demonstração 1
 
-To learn more about Next.js, take a look at the following resources:
+<img src="/src/assets/captura_de_tela_quiz1.png" alt="foto de demonstração quiz perguntas">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Demonstração 2
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<img src="/src/assets/captura_de_tela_quiz2.png" alt="foto de demonstração quiz perguntas">
 
-## Deploy on Vercel
+##  Funcionalidades
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+-   Exibe uma sequência de perguntas e alternativas
+    
+-   Marca respostas corretas e erradas
+    
+-   Mostra o resultado final após o término do quiz
+    
+-   Interface responsiva para desktop e mobile
+    
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+##  Como rodar o projeto
+
+Clone o repositório:
+
+bash
+
+CopiarEditar
+
+`git clone https://github.com/seu-usuario/seu-repositorio.git` 
+
+Instale as dependências:
+
+bash
+
+CopiarEditar
+
+`npm install` 
+
+Rode o projeto:
+
+bash
+
+CopiarEditar
+
+`npm run dev` 
+
+_(ou `npm start` se for Create React App)_
+
+##  Melhorias futuras
+
+-   Adicionar contador de tempo para cada pergunta
+    
+-   Criar diferentes níveis de dificuldade
+    
+
+##  Licença
+
+Este projeto está sob a licença MIT.  
+Veja o arquivo LICENSE para mais detalhes.
