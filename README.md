@@ -34,10 +34,6 @@ Um aplicativo de quiz feito com **React** para testar meus conhecimentos de form
 
 Clone o repositório:
 
-bash
-
-CopiarEditar
-
 `git clone https://github.com/ThainaSantoss/quizzer-react.git` 
 
 Instale as dependências:
