@@ -38,25 +38,17 @@ bash
 
 CopiarEditar
 
-`git clone https://github.com/seu-usuario/seu-repositorio.git` 
+`git clone https://github.com/ThainaSantoss/quizzer-react.git` 
 
 Instale as dependências:
 
-bash
-
-CopiarEditar
 
 `npm install` 
 
 Rode o projeto:
 
-bash
-
-CopiarEditar
-
 `npm run dev` 
 
-_(ou `npm start` se for Create React App)_
 
 ##  Melhorias futuras
 
